@@ -2,4 +2,4 @@
 
 Dev Environment : npm run dev
 
-Basic Requirements : Node, Sequelize 
+Basic Requirements : Node, Postgres DB 
