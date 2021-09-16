@@ -1,0 +1,21 @@
+{
+    "dev": {
+      "name": "Skill-Mine - Dev Mode",
+      "port": 3000,
+      "host": "localhost",
+      "mode": "development",
+      "protocol": "http",
+      "serverUrl": "localhost",
+      "serverUrlWebUrlLink": "localhost:4200/",
+      "database": {
+        "host": "127.0.0.1",
+        "username": "postgres",
+        "password": "postgres",
+        "name": "postgres",
+        "port": "5432",
+        "dialect": "postgres",
+        "logging": false,
+        "timezone": "+05:30"
+      }
+    }
+  }
